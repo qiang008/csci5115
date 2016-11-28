@@ -1,0 +1,1 @@
+include ':app', ':loc_report'
