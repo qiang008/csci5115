@@ -1,1 +1,1 @@
-include ':app', ':loc_report'
+include ':app'
