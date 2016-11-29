@@ -1,5 +1,6 @@
 package com.example.apple.csci5115_map2;
 import android.Manifest;
+import android.content.Intent;
 import android.content.IntentSender;
 import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
@@ -8,11 +9,16 @@ import android.location.Geocoder;
 import android.location.Location;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.Environment;
+import android.provider.MediaStore;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.content.ContextCompat;
+import android.support.v4.content.FileProvider;
 import android.util.Log;
+import android.view.View;
 import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -33,11 +39,12 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
+import java.io.File;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.List;
 import java.util.Locale;
-
-
 
 public class loc_report extends FragmentActivity
         implements ConnectionCallbacks, OnConnectionFailedListener, LocationListener, OnMapReadyCallback {
@@ -62,13 +69,12 @@ public class loc_report extends FragmentActivity
         MapFragment mapFragment = (MapFragment) getFragmentManager()
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
-
-        //this.imageView = (ImageView) this.findViewById(R.id.picture1);
-
-        //ImageButton photoButton = (ImageButton) this.findViewById(R.id.imageButton2);
-        /*photoButton.setOnClickListener(new View.OnClickListener() {
+        this.imageView = (ImageView) findViewById(R.id.imageView);
+        ImageButton photoButton = (ImageButton) this.findViewById(R.id.addingPic);
+        photoButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                //this.imageView = (ImageView) findViewById(R.id.imageView);
                 Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
                 if (takePictureIntent.resolveActivity(getPackageManager()) != null) {
                     // Create the File where the photo should go
@@ -79,6 +85,7 @@ public class loc_report extends FragmentActivity
                         // Error occurred while creating the File
 
                     }
+
                     // Continue only if the File was successfully created
                     if (photoFile != null) {
                         Uri photoURI = FileProvider.getUriForFile(getBaseContext(),
@@ -87,9 +94,10 @@ public class loc_report extends FragmentActivity
                         takePictureIntent.putExtra(MediaStore.EXTRA_OUTPUT, photoURI);
                         startActivityForResult(takePictureIntent, REQUEST_TAKE_PHOTO);
                     }
+
                 }
             }
-        });*/
+        });
 
         if (mGoogleApiClient == null) {
             // ATTENTION: This "addApi(AppIndex.API)"was auto-generated to implement the App Indexing API.
@@ -277,36 +285,32 @@ public class loc_report extends FragmentActivity
 
         setUpMap();
     }
-    /*private File createImageFile() throws IOException {
+
+    private File createImageFile() throws IOException {
         // Create an image file name
         String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
         String imageFileName = "JPEG_" + timeStamp + "_";
-        File storageDir = Environment.getExternalStoragePublicDirectory(
-                Environment.DIRECTORY_PICTURES);
+        File storageDir = getExternalFilesDir(Environment.DIRECTORY_PICTURES);
         File image = File.createTempFile(
-                imageFileName,  // prefix
-                ".jpg",         // suffix
-                storageDir      // directory
+                imageFileName,  /* prefix */
+                ".jpg",         /* suffix */
+                storageDir      /* directory */
         );
 
         // Save a file: path for use with ACTION_VIEW intents
-        mCurrentPhotoPath = "file:" + image.getAbsolutePath();
+        mCurrentPhotoPath = image.getAbsolutePath();
         return image;
     }
 
+    @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        /*if (requestCode == CAMERA_REQUEST && resultCode == FragmentActivity.RESULT_OK) {
-            Bitmap photo = (Bitmap) data.getExtras().get("data");
-            //intent.putExtra(android.provider.MediaStore.EXTRA_OUTPUT, imageFileUri);
-            imageView.setImageBitmap(photo);
-        }*/
-
-        /*if (requestCode == REQUEST_IMAGE_CAPTURE && resultCode == RESULT_OK) {
-            Bundle extras = data.getExtras();
-            Bitmap imageBitmap = (Bitmap) extras.get("data");
-            imageView.setImageBitmap(imageBitmap);
+        if (requestCode == REQUEST_IMAGE_CAPTURE && resultCode == RESULT_OK) {
+                Bundle extras = data.getExtras();
+                Bitmap imageBitmap = (Bitmap) extras.get("data");
+                imageView.setImageBitmap(imageBitmap);
         }
-    }*/
+    }
+
 
 
 }
