@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="226fbd14a851b4b73d6f8b1bf18f4e4f6df4482b">
+        sha1="668a1d9ac0943c389e9a791d93bc044bfb20f60d">
         <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d032e4b292415755fb85bddc5d6e3b613c15780a/classes.dex" />
     </item>
     <item
@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="82920886975098c82a8383eaafe3fb48f6ec8c63">
+        sha1="bf8e69c79f404d9537d25f9fa8afd55bc06bd1c1">
         <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6b923192ae9f9bcb8987d44519c5157a29b9625e/classes.dex" />
     </item>
     <item
@@ -450,6 +450,15 @@
         revision="25.0.0"
         sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
         <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_3d37f0d1d8264c297761cb9c6981f0a843663990/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.0_282b4451bd86471a329f8541a137554e346e9634/classes.dex" />
     </item>
     <item
         is-multidex="true"
