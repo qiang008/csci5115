@@ -30,12 +30,11 @@
         android:id="@+id/main_layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:paddingBottom="@dimen/activity_vertical_margin"
         android:paddingLeft="@dimen/activity_horizontal_margin"
         android:paddingRight="@dimen/activity_horizontal_margin"
         android:paddingTop="@dimen/activity_vertical_margin"
         tools:context="com.example.apple.csci5115_map2.loc_report"
-        android:layout_alignParentTop="true"
+        android:layout_below="@+id/toolbar"
         android:layout_alignParentStart="true">
 
 
@@ -86,31 +85,40 @@
             android:layout_alignParentEnd="true"
             android:layout_alignStart="@+id/textView3" />
 
-        <fragment
-            android:id="@+id/map"
-            android:name="com.google.android.gms.maps.MapFragment"
-            android:layout_width="330dp"
-            android:layout_height="170dp"
-            android:layout_marginTop="49dp"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true" />
-
         <ImageButton
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             app:srcCompat="@android:drawable/ic_input_add"
             android:id="@+id/addingPic"
             android:elevation="8dp"
-            android:layout_alignParentBottom="true"
+            android:layout_below="@+id/description_text"
             android:layout_alignParentEnd="true" />
 
+        <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.MapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:text="Save"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button3"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_below="@+id/addingPic"
+            android:layout_alignParentStart="true" />
+
         <ImageView
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             app:srcCompat="@android:drawable/picture_frame"
             android:id="@+id/imageView"
-            android:layout_alignParentBottom="true"
-            android:layout_toEndOf="@+id/textView3" />
+            android:layout_below="@+id/description_text"
+            android:layout_toStartOf="@+id/addingPic"
+            android:layout_marginEnd="18dp" />
 
         <!-- Layout for content is here. This can be a RelativeLayout  -->
     </RelativeLayout>

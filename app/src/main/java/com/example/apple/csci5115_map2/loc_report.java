@@ -23,7 +23,7 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
-
+import android.widget.Button;
 import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.appindexing.Thing;
@@ -64,6 +64,12 @@ public class loc_report extends AppCompatActivity
     private Bitmap mImageBitmap;
     private String mCurrentPhotoPath;
     private File photoFile = null;
+    private EditText EditAdr;
+
+    //private LatLng point1;
+    //private double point2
+
+    //Geocoder geocoder;
 
 
     @Override
@@ -73,9 +79,14 @@ public class loc_report extends AppCompatActivity
         MapFragment mapFragment = (MapFragment) getFragmentManager()
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
+        final Button savebutton = (Button) this.findViewById(R.id.button3);
+
+        //geocoder = new Geocoder(this, Locale.getDefault());
 
         // toolbar
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+
+
         setSupportActionBar(toolbar);
 
         // add back arrow to toolbar
@@ -115,6 +126,13 @@ public class loc_report extends AppCompatActivity
             }
         });
 
+        savebutton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent i= new Intent(getApplicationContext(), tags.class);
+                startActivity(i);
+            }
+        });
+
         if (mGoogleApiClient == null) {
             // ATTENTION: This "addApi(AppIndex.API)"was auto-generated to implement the App Indexing API.
             // See https://g.co/AppIndexing/AndroidStudio for more information.
@@ -127,7 +145,7 @@ public class loc_report extends AppCompatActivity
         mLocationRequest = LocationRequest.create()
                 .setPriority(LocationRequest.PRIORITY_HIGH_ACCURACY)
                 .setInterval(10 * 1000)        // 10 seconds, in milliseconds
-                .setFastestInterval(1 * 1000); // 1 second, in milliseconds
+                .setFastestInterval(1000); // 1 second, in milliseconds
 
 
     }
@@ -148,33 +166,49 @@ public class loc_report extends AppCompatActivity
 
     private void handleNewLocation(Location location) throws IOException {
         Log.d(TAG, location.toString());
+        LatLng point=recieveData();
+        EditAdr = (EditText) findViewById(R.id.address);
 
-        double currentLatitude = location.getLatitude();
-        double currentLongitude = location.getLongitude();
-
-        LatLng latLng = new LatLng(currentLatitude, currentLongitude);
-
-        EditText EditAdr = (EditText) findViewById(R.id.address);
-
-        //mMap.addMarker(new MarkerOptions().position(new LatLng(currentLatitude, currentLongitude)).title("Current Location"));
-        MarkerOptions options = new MarkerOptions()
-                .position(latLng)
-                .title("I am here!");
-        mMap.addMarker(options);
-        mMap.moveCamera(CameraUpdateFactory.newLatLng(latLng));
-        //mMap.animateCamera(CameraUpdateFactory.zoomTo(11));
         Geocoder geocoder;
-        List<Address> addresses;
+
         geocoder = new Geocoder(this, Locale.getDefault());
 
-        addresses = geocoder.getFromLocation(currentLatitude, currentLongitude, 1); // Here 1 represent max location result to returned, by documents it recommended 1 to 5
-        String address = addresses.get(0).getAddressLine(0); // If any additional address line present than only, check with max available address lines by getMaxAddressLineIndex()
-        String city = addresses.get(0).getLocality();
-        String state = addresses.get(0).getAdminArea();
-        String country = addresses.get(0).getCountryName();
-        String postalCode = addresses.get(0).getPostalCode();
-        String knownName = addresses.get(0).getFeatureName();
-        EditAdr.setText(address+city+state+country, TextView.BufferType.EDITABLE);
+        if(point != null)
+        {
+            MarkerOptions options2 = new MarkerOptions()
+                    .position(point)
+                    .title("new Mark!");
+            mMap.addMarker(options2);
+            mMap.moveCamera(CameraUpdateFactory.newLatLng(point));
+            //mMap.animateCamera(CameraUpdateFactory.zoomTo(11));
+            List<Address> addresses1;
+            addresses1 = geocoder.getFromLocation(point.latitude, point.longitude, 1);
+
+        }
+            double currentLatitude = location.getLatitude();
+            double currentLongitude = location.getLongitude();
+
+            LatLng latLng = new LatLng(currentLatitude, currentLongitude);
+
+            //EditText EditAdr = (EditText) findViewById(R.id.address);
+
+            //mMap.addMarker(new MarkerOptions().position(new LatLng(currentLatitude, currentLongitude)).title("Current Location"));
+            MarkerOptions options = new MarkerOptions()
+                    .position(latLng)
+                    .title("I am here!");
+            mMap.addMarker(options);
+            mMap.moveCamera(CameraUpdateFactory.newLatLng(latLng));
+            List<Address> addresses;
+            addresses = geocoder.getFromLocation(currentLatitude, currentLongitude, 1);
+            //mMap.animateCamera(CameraUpdateFactory.zoomTo(11));
+            String address = addresses.get(0).getAddressLine(0); // If any additional address line present than only, check with max available address lines by getMaxAddressLineIndex()
+            String city = addresses.get(0).getLocality();
+            String state = addresses.get(0).getAdminArea();
+            String country = addresses.get(0).getCountryName();
+            String postalCode = addresses.get(0).getPostalCode();
+            String knownName = addresses.get(0).getFeatureName();
+            EditAdr.setText(address + ","+city +","+ state +","+ country, TextView.BufferType.EDITABLE);
+
     }
 
 
@@ -298,7 +332,6 @@ public class loc_report extends AppCompatActivity
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
-
         setUpMap();
     }
 
@@ -343,6 +376,16 @@ public class loc_report extends AppCompatActivity
             imageView.setImageBitmap(bitmap);
         }*/
         imageView.setImageURI(Uri.fromFile(photoFile));
+    }
+
+
+    private LatLng recieveData()
+    {
+        Bundle bundle = getIntent().getParcelableExtra("bundle");
+        LatLng fromPosition = bundle.getParcelable("from_position");
+
+        return fromPosition;
+
     }
 
 
