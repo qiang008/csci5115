@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cbe47ee35d2c726d7bd1e6e1ab8ce456fa7228cd">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d032e4b292415755fb85bddc5d6e3b613c15780a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_cad1b46661b82aa0778b6753d761c8abd26ee7fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_ae17ad7eb964df33a807cfd1f3a04014d811a1c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_19f1c354e5ccd0d2d5ca84575873851f25bc2fc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_68f22e8c8f6b2bc28836d1257c0f352db656c729/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_9959f8ce189e761492ceaeff5b0196b181e081f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_ba1b966690f46347c70e9fb8ab65aab169ed61bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e618e6778250afeb214c2374768e56bd16c997d8">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6b923192ae9f9bcb8987d44519c5157a29b9625e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_6a6947549aa3c2990bfd572e1c643cc7832b637a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_f62f861a84cbd311494d4a115386db4e44d55777/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_7bec0d19c5a7965c4017e02a29e6a750c824009f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_2a9c03cb367ebb01ff39064873616d391793b6eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_1f04c62c788685249708f79147d070074634b4f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_facb60fb4546f2bb84abb3e085394179410a80ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_feb0b34a3c47464d442472c54117ff101b4f2599/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_df7cfffdd6504d66a663ec91fd539fccad7836a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_a67cc7af9d9239bbd91ddb1c33e74a736d888670/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_824ab22a109f093c72ac825ec1255cfc56d7afa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_3680e9596724e38778e75c772049cf9e253caa48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_a41fd1d9b67fa0547f041fea56fb4b8c5fb1bc0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_b3a39c9b05e851b954f8ed926b61f20f053b224a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_dae9a9bb9ca8b8cfc1dd00f04f662b385ac77c52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_85c43f2027b1cb9a7e471f20b7a381fec63574e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_21dad15e2ea32ae904a73ee63cef1d203888c805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_471828ba7719cc99d3b7308589d61a8020dcbab9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_e941ea77f265e9a13a8fb9873ce3ec59b5cc717e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_caa7b605a548b38990a6e1fe59765ab637caef39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_886cf74af6f701a1b77bc0dd555f2d979527e846/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b428de422e1810b47a39f5dd670389149ec9d444/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_5aa176e2e84f5abdc8d9341e74834aeaf54672be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_9d4645be5e24f4625190674a926fa7f3274deec3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_e8892606e96bf33392403fb35b3c1cf5387baa0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_4e6f4aea0f634861f574af4ebfdd02e0b4c6610e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_6fafdc134f31acb2aa1d74ef7dd64a8262998929/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_c671fba3ba0b90a0becdd71cf07ce135770eb95c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_eeeec307e3f0101bc5a9b88480ea4cb2893cf7d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_3ac44f04cc40793caaa1f13efff80fb0f2929a9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_b6346846cd216bc5031ac74c80254d4a3410e9ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_528715150cf2d9a6bb1f084dc74d6ef6c6be558a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_bc4807d0d553678d287f6395ffa222f033866457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_ca1e1f0e1ecb81f60eba9afbc86c9fb981447a3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_64fc7cfceb57768a9586fc31bd1964b1c41054f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_31a51d2544aebc470db267f89c8cb37e82575955/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_9a90f793c1f0739f80d3bd316e9a7137793732b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_e874af58a9007a1a349148c9e5869699e2e223fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_23626056bb3253fd9a6691e6f1c918ea20823494/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_cb5692bec09eb08f85653b74bfd9ebdb9720a283/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_f76e8d0e59bab527aefab3caf3e3fbf59d2f54a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_dd4a1cf73be9b14769d409b44d8c57d5250f1b31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_3d37f0d1d8264c297761cb9c6981f0a843663990/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_78ec782ada727bbf400706c85a264ca048dc9b4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_4fb7fb2b8a1b02f5edeb76aac97c90fe291ffda2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a396ccc2d085f14ae9d63bd2e8560e81e1ccaaef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_711287a52e0cde0e821605ddc2701ad9a3083b1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_01677d5e8eab13ecb63e2c40f6d3d706b88d3260/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_7c5ccbda8168657d9f9f9de2f6d4ccc9e091d850/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_052180fc3d8ec1d427ad86f26c6c572b89016e76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_2eb3d636b1fe629853282a855953036527b00c67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c357551636e855aecbdb8612868a9a113d4d1551/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_27229be97988efb2d26926b4a29adb650320a8eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_34ac03b588f0c3818c7f07893670485d3428cd32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_ab203718098877fa30b507ece4ccd482db90532e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_1413eb2b06427ad912b35dffeb1df872f62077c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_919ef85f59f851aeced075b7e25ff92ad321bed0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_55e846e73c7bfefe3336a0c5bcce2642b310df97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_5cfa825d47c6a5a9f284799968202e8eb1df4140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_f72f58d7f03b5af5a6cda24d198ecf887ccb3202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_cf732a709f660ec7bf0f5a2ebe34d078c86a4aee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/apple/Downloads/csci5115_map2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_653c5927eb6f70a8fdf60efc85de62f7cea8ae3e/classes.dex" />
+    </item>
+
+</items>
