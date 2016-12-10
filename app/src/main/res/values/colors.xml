@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#777777</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#fff28c</color>
-    <color name="colorAccent_transparent">#7ffff28c</color>
-    <color name="white_navbar">#ffffff</color>
-    <color name="foreground">#b3b3b3</color>
-</resources>
