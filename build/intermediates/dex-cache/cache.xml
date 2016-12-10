@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_4590c0740c5adce6333c632b34225c7821c8baa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_ead8f367afdaa4f92a3c79d1ae65d01961d76ab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_38ebac8279a8b8db21ef573f47c675e8b958e874/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_b6a7332977b4af22b73f8174dc216b4b72aa2b29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_7fe72adaef6b7d453a94f9aea94a6b8b7353440a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_0834c1f12d10243e14d50b5c97a249c0687af2a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_a6d2841068ca45bf7c7cfc2ef7f6ce093951aef0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_4a9ab15c92577da9a73fa10142117b795593146b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_4fafe5755717829943e38bf1b73b9ba68940ba05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_b74c97308c3a652f227a890e8dc711e8ba3051d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_737eeb650a8d4358b74195db96a91d248d69476a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_c33b74e56756ff8f134c6d79d35b38a35784b8ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f4815c5f8e1d0f174d9c69a033e85dca9c164149/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_44f9a337ce9c3ceb7fe8157fe62353daa05fda29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_224e95b95d8f4a039f82947d14d7b10e0974a6f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_40f73536eb2dc8ce8eadb678d271d5fe62ad3205/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_4a037b1449daafe80eebf472f1edf4d6746496f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_2d933811ead728cc2ad9c8dc3a5e00a3e99c511d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_a11a56a9fd21e2a70a255ff73a6a9cfb6dcc5beb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_7198e5b558f422ace403b3e7e124d8d36513fff8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_612860e777fe2e8ba8a1b68bdd89654b33b2035a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_2438d34d01f7f34bdc231f2268c9380dc28b0aec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_0f8ed1278bd237b63eb90121ee991c4084ad9c25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_6bc04c3ded5af7b22788c9528ce64d1b3442c8c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_af0c85d9d1e3ccc8b69f3c16bf3f0e31e7272022/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0e7a81b1d1e31e29f123840f6565980831424863/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_5644efae1d6bba03758925eac8af1b8f4a36d53e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_72d083e61e645ff55246f510e1aa7034e20ccf5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_5fe6feaaf01080e4e5f68a10ae0dfa07082c2798/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_5034def56c0a047a1296e44205bb2c3357370d7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2fbe18d0ead4062683bf093f847cbd4c9c74143f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_778e46ff09f8ffe5ec7dfdfdb379e217f61eee97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9a8564f29c540c186a42deb247d4921d0df440c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_a47d4580bc372251d449d45dd41d2e86ee199554/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_dfa88b68b489dba1b4cf1bd32d73be6827ca1f2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_f635198b387416bb3546214f439fad0b8457b393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df4b5577adaddb5e8e7e5113e767cfeb30e0c67f">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e81a445841a679cffae7d0ba4ca0eec993e2b9bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1250d353017e8f9470f27961264fd2a8e7cdeaa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_49829a46904b1bf2a84d783ab489cb3fafe8ba23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_4e4664bc5e331e56bc601e24f3ce092246bb039f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_de5d9c439a1d72058ec4496bbae819cf48106bef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_d13cb3056b33bb49a475e1975f763abf7d42dc07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_0daabf111457588f7a5d9258e08d8003dd3f9390/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_7493d7e5457cadadf2b18214a189aa2ab339fa74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_25517d932d0d81328f479a937284691c144ec062/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_7c1f1d7919b0e6bf788bdf95f9d68f48deae731d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_076f208cec6f1ebf632f977a14b51768dbe804dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_c79327a9a2e1e111ee4705585b885a82e38e0a6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_020a4debec709ebe27c711e57dd18ac352d973ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_6191dbb0d568ece1d5ec5d06ceea5d3679dafec2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_f15d5afb108fbb2777a286b294aacb16878372bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_68b563731adf76fa343058eebe0f944cf3c1fcd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_6ee782ff87b5d77ad867f0dd8a7d5894cec5a48b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_75939e9364c02ea667711ac00f9971f36bdf89b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_44fcce4b5eb1be8791913a2c87b4324c476ce762/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_238702ac89e940f6857bd89ec57effc32478e0c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_75957040ed58f21f3dd53c56cf07cd0a98d5e20a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_79484962717188e95b37fd36e6d3bc7ee8e23ef9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_7981f96824b2553e9b2d841c478fc6c510a61a26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_1ca37c64e9bdf6ccacc65267534c580eb6d3f47a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_e3368fc51d4d146e2245e2d60a778655f7c458e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_3d401bea8a04b2cf2768dc8cf3f6da31ae69fa46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_ed40d3cb4095927b92493d6fe779632cfff81ebe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_ec59a975a040e18c0401a8d420ca5831a455abdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_11ff6d6391dededf735a7d087942678e239c649f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_5df73081bb4dfb35c11302e1e9cefa0828004533/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_4890e3d11d8111245da6e8345f7b4b7e5f7c10d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_9525e3aed673884451bd7055f0e81ed3e485ada3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_566bedef248a94292957218b0cf115233cc49dbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0367e08e891660f906a17c46048cd803d8f1b4c">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5d35fed15b6471d353e740b2a4a858f6a6ebe08f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_2bf48dfd2477ccdcd27f3ff73fe8a83509f7be9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.0_c0501abeb0b7f58f8226f94c637d2970d29b655c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/apple/Downloads/theprotectorsmain/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e6269cb994a2b60ec246c2dcb163fa1aa818f145/classes.dex" />
+    </item>
+
+</items>

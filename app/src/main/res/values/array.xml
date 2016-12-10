@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reason">
+        <item>bad road condition</item>
+        <item>lane is closed</item>
+        <item>too many cars</item>
+        <item>too many persons</item>
+    </string-array>
+</resources>

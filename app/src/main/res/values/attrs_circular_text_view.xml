@@ -1,0 +1,13 @@
+<resources>
+    <declare-styleable name="CircularTextView">
+        <attr name="left" format="float" />
+        <attr name="top" format="float" />
+        <attr name="right" format="float" />
+        <attr name="bottom" format="float" />
+        <attr name="startAngle" format="float" />
+        <attr name="sweepAngle" format="float" />
+        <attr name="text" format="string" />
+        <attr name="textSize" format="dimension" />
+
+    </declare-styleable>
+</resources>
